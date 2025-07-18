@@ -1,18 +1,3 @@
-# GitHub Analytics
-
-## 1,228
-Total contributions  
-Feb 12, 2021 - Present  
-
-## 6
-Current streak  
-July 12 - Present  
-
-## 149
-Contributions in last year  
-
----
-
 ### Most Used Languages  
 - **Python 37.4%**  
 - **Java 28.6%**  
